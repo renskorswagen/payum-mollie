@@ -28,6 +28,7 @@ class CreateCaptureAction extends BaseApiAwareAction
             'redirectUrl' => $model['returnUrl'],
             'webhookUrl' => $model['notifyUrl'],
             'metadata' => $model['metadata'],
+            'locale' => $model['locale'] ?? null,
         ]);
         $model->replace(['payment' => (array) $result]);
 
