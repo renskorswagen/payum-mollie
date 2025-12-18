@@ -4,11 +4,11 @@
     "description": "The Payum extension. It provides Mollie payment integration. used to be maintained by Rafał Muszyński but couldn't see any activity",
     "keywords": ["payment", "payum", "mollie", "sepa", "directdebit", "creditcard"],
     "homepage": "https://sourcefabric.org",
-    "license": "GPLv3",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Tim Huijzers",
-            "email": "webbaard@gmail.com"
+            "name": "Rens Korswagen",
+            "email": "renskorswagen@gmail.com"
         }
     ],
     "require": {
