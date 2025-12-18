@@ -1,5 +1,5 @@
 {
-    "name": "webbaard/payum-mollie",
+    "name": "renskorswagen/payum-mollie",
     "type": "library",
     "description": "The Payum extension. It provides Mollie payment integration. used to be maintained by Rafał Muszyński but couldn't see any activity",
     "keywords": ["payment", "payum", "mollie", "sepa", "directdebit", "creditcard"],
